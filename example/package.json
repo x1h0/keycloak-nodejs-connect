@@ -10,8 +10,11 @@
   "license": "Apache-2.0",
   "dependencies": {
     "keycloak-connect": "file:../",
-	  "hogan-express": "*",
-	  "express": "*",
-	  "express-session": "*"
+    "hogan-express": "*",
+    "express": "*",
+    "express-session": "*",
+    "cookie-parser": "*",
+    "serve-index": "*",
+    "morgan": "*"
   }
 }
